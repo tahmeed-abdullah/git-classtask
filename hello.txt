@@ -1,0 +1,4 @@
+Using git we can track every change and review project history.
+It allows multiple people to work on the same project.
+People can access files and codes.
+Files can be used without an internet connection
